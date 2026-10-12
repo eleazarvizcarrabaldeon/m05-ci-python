@@ -6,7 +6,7 @@ Este módulo es usado para demostrar el pipeline CI con pytest y flake8.
 
 
 def sumar(a, b):
-    """Retorna la suma de dos números."""
+    """Retorna la suma de dos números.."""
     return a + b
 
 
